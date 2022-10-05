@@ -32,7 +32,6 @@ app.post("/api/insert", (req, res) => {
         if (error) {
             res.json({message: "Failed due to " + error.message})
             throw error;
-
         }
     });
 
