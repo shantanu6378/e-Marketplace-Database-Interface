@@ -11,6 +11,5 @@ the primary key of Orders entity (ID). The interface that was created fulfilled 
 into a state-of-the-art website through small changes.
 
 Following is a link to the Demo Video of the interface:
-https://www.youtube.com/watch?v=DwoIt4CO-3U&ab
 
-[! [VIDEO LINK](https://img.youtube.com/vi/DwoIt4CO-3U&ab/0.jpg)](https://www.youtube.com/watch?v=DwoIt4CO-3U&ab)
+[![VIDEO LINK](https://img.youtube.com/vi/DwoIt4CO-3U&ab/0.jpg)](https://www.youtube.com/watch?v=DwoIt4CO-3U&ab)
