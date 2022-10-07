@@ -13,4 +13,4 @@ into a state-of-the-art website through small changes.
 Following is a link to the Demo Video of the interface:
 https://www.youtube.com/watch?v=DwoIt4CO-3U&ab
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=DwoIt4CO-3U&ab)
+[![VIDEO LINK](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=DwoIt4CO-3U&ab)
