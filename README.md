@@ -1,4 +1,4 @@
-# e-Marketplace-Database-Interface
+# e-Marketplace Database Interface
 This project deals with creating an e-Marketplace database and a user interface to interact with the database.
 
 The project began with the creation of a schema with entities like Customer, Product, Orders, etc. and relations like Places (Customer to Orders), Includes 
